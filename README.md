@@ -1,2 +1,8 @@
 # flutter101
-Flutter 101 (DevFest2018 Seoul)
+
+Flutter DEMO
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
